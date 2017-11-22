@@ -1,0 +1,1 @@
+# TemplateAndSingleton-JUnitTest
